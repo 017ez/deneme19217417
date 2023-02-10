@@ -1,5 +1,3 @@
-_G.Key = "mrc"
-
 local keys = {
     "mrc",
     "frkn",
